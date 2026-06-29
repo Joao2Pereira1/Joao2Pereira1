@@ -26,14 +26,18 @@ https://github.com/Joao2Pereira1/Learning-Projects
 
 ### 💻 Technologies
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,qt,git,github,linux,matlab,mysql,arduino" />
-</p>
 
 ---
 
 ### 🔥 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JurojinKun&theme=discord-old-blurple&hide_border=true&border_radius=10)](https://github.com/Joao2Pereira1?tab=repositories)
+
+### 📚 Learning Journey
+
+I enjoy learning by building projects and studying new topics. Here's a snapshot of my current progress.
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/651c5b431205b5c21b71e3f2?variant=dark&roadmaps=computer-science%2Cnetwork-engineer%2Cdatastructures-and-algorithms%2Clinux" alt="roadmap.sh"/></a>
 
 ---
