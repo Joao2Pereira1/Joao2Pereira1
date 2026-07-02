@@ -26,13 +26,23 @@ https://github.com/Joao2Pereira1/Learning-Projects
 
 ### 💻 Technologies
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,qt,git,github,linux,matlab,mysql,arduino" />
+#### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,matlab,arduino" />
+
+#### Other
+
+<img src="https://skillicons.dev/icons?i=qt,mysql,git,github" />
+
+#### Operating Systems
+
+<img src="https://img.shields.io/badge/arch_linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF">
 
 ---
 
 ### 🔥 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JurojinKun&theme=discord-old-blurple&hide_border=true&border_radius=10)](https://github.com/Joao2Pereira1?tab=repositories)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Joao2Pereira1&theme=discord-old-blurple&hide_border=true&border_radius=10)](https://github.com/Joao2Pereira1?tab=repositories)
 
 ### 📚 Learning Journey
 
