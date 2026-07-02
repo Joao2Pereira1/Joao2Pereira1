@@ -19,8 +19,7 @@ Most of my public repositories are learning projects created while exploring new
 
 I'm currently working on publishing more university and personal projects.
 
-📁 **Learning Projects**
-https://github.com/Joao2Pereira1/Learning-Projects
+[📁 Learning Projects](https://github.com/Joao2Pereira1/Learning-Projects)
 
 ---
 
