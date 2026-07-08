@@ -23,6 +23,16 @@ I'm currently working on publishing more university and personal projects.
 
 ---
 
+### 🎨 Customization & Ricing
+
+Apart from programming, I enjoy customizing desktop environments and creating visual assets.
+
+* **[Wallpapers](https://github.com/Joao2Pereira1/Wallpapers)** — A collection of my favorite wallpapers.
+* **[Vivaldi Themes](https://themes.vivaldi.net/users/Pereira21)** — Custom themes created for the browser I use, Vivaldi.
+* **[Desktop Ricing](https://github.com/Joao2Pereira1/Ricing_Repo)** — My configs and rices for Linux and Windows.  
+
+---
+
 ### 💻 Technologies
 
 #### Languages
@@ -39,7 +49,7 @@ I'm currently working on publishing more university and personal projects.
 
 ---
 
-### 🔥 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Joao2Pereira1&theme=discord-old-blurple&hide_border=true&border_radius=10)](https://github.com/Joao2Pereira1?tab=repositories)
 
