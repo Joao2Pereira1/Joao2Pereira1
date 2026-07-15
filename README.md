@@ -13,6 +13,10 @@
 
 I'm João, a Computer Engineering student from Portugal.
 
+<a href="https://linkedin.com/in/joao-pereira-pt" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 I'm mainly interested in Software Engineering, Linux, Computer Networks, Embedded Systems and Backend Development.
 
 Most of my public repositories are learning projects created while exploring new technologies and concepts.
