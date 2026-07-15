@@ -19,7 +19,12 @@ Most of my public repositories are learning projects created while exploring new
 
 I'm currently working on publishing more university and personal projects.
 
-[📁 Learning Projects](https://github.com/Joao2Pereira1/Learning-Projects)
+
+### Main Projects
+
+* **[Weather App](https://github.com/Joao2Pereira1/Learning-Projects/tree/main/WeatherApp)** — A weather application built with Python and PyQt, using the WeatherAPI.
+* **[Terminal App](https://github.com/Joao2Pereira1/Learning-Projects/tree/main/TerminalApp)** — A terminal utility built with Python and PyQt.
+* **[Sports Web App](https://github.com/Joao2Pereira1/Learning-Projects/tree/main/SportsWebApp)** — A full-stack web application built using Flask, Jinja, SQL, HTML/CSS, JS, and Python.
 
 ---
 
