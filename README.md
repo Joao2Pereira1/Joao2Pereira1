@@ -60,7 +60,18 @@ Apart from programming, I enjoy customizing desktop environments and creating vi
 
 ### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Joao2Pereira1&theme=discord-old-blurple&hide_border=true&border_radius=10)](https://github.com/Joao2Pereira1?tab=repositories)
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api?username=Joao2Pereira1&show_icons=true&theme=dark" />
+      </td>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joao2Pereira1&layout=compact&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 📚 Learning Journey
 
