@@ -27,9 +27,9 @@ Most of my public repositories are learning projects created while exploring new
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Weather App](https://github.com/Joao2Pereira1/Learning-Projects/tree/main/WeatherApp)** | A desktop weather application with a graphical interface | Python, PyQt, WeatherAPI |
-| **[Terminal App](https://github.com/Joao2Pereira1/Learning-Projects/tree/main/TerminalApp)** | A custom terminal utility built with a GUI layer | Python, PyQt |
-| **[Sports Web App](https://github.com/Joao2Pereira1/Learning-Projects/tree/main/SportsWebApp)** | A full-stack web application for sports data | Flask, Jinja, SQL, HTML/CSS, JS |
+| **[Weather App](https://github.com/Joao2Pereira1/Weather_App)** | A desktop weather application with a graphical interface | Python, PyQt, WeatherAPI |
+| **[Terminal App](https://github.com/Joao2Pereira1/Terminal_App)** | A custom terminal utility built with a GUI layer | Python, PyQt |
+| **[Sports Web App](https://github.com/Joao2Pereira1/Sports_Web_App)** | A full-stack web application for sports data | Flask, Jinja, SQL, HTML/CSS, JS |
 
 ---
 
