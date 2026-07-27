@@ -62,8 +62,8 @@ Apart from programming, I enjoy customizing desktop environments and creating vi
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Joao2Pereira1&show_icons=true&theme=dark" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joao2Pereira1&layout=compact&theme=dark" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Joao2Pereira1&show_icons=true&theme=dark&cache_seconds=1800" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joao2Pereira1&layout=compact&theme=dark&cache_seconds=1800" height="165" />
 </div>
 
 ---
