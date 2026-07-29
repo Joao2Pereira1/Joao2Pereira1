@@ -30,6 +30,7 @@ Most of my public repositories are learning projects created while exploring new
 | **[Weather App](https://github.com/Joao2Pereira1/Weather_App)** | A desktop weather application with a graphical interface | Python, PyQt, WeatherAPI |
 | **[Terminal App](https://github.com/Joao2Pereira1/Terminal_App)** | A custom terminal utility built with a GUI layer | Python, PyQt |
 | **[Sports Web App](https://github.com/Joao2Pereira1/Sports_Web_App)** | A full-stack web application for sports data | Flask, Jinja, SQL, HTML/CSS, JS |
+| **[ESP32 DSP Tone Detector](https://github.com/Joao2Pereira1/ESP32_DSP_Tone_Detector)** | Real-time tone detection system using FIR filters and digital signal processing on the ESP32-C6 | C, ESP-IDF, FreeRTOS, ESP-DSP |
 
 ---
 
